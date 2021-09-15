@@ -1,2 +1,2 @@
 # TrueHome
-Backend and frontend sides for True-Home survey system sample development
+Backend and frontend sides for True-Home activities system sample development
